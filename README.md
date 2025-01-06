@@ -1,1 +1,1 @@
-The script is a well-rounded data analysis workflow which helps visualise and compare the factors affecting deppreression among students. The correlation heatmap focuses on various factors impacting the student depression.
+The script is a well-rounded data analysis workflow which helps vizualise and compare the factors affecting deppression among students. The correlation heatmap focuses on various factors impacting the student depression. It is built on Python libraries- Pandas, Numpy and visualised using Matplotlib and Seaborn.
